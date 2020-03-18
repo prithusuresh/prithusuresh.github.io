@@ -203,7 +203,7 @@
 
   .visible-links {
     display: table;
-
+    
     li {
       display: table-cell;
       vertical-align: middle;
@@ -213,6 +213,8 @@
 
         a {
           margin-left: 0;
+          color: #fff;
+          font-weight: 500;
         }
       }
 
