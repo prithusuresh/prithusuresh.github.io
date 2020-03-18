@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=e_ZaklYAAAAJ&hl=en"
-  email            : "prithvisuresh98{at}gmail{dot}com"
+  email            : "prithvisuresh98@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/prithvisuresh/"
+  linkedin         : "prithvisuresh"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
