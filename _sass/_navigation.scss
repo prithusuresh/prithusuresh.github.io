@@ -67,6 +67,7 @@
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
+    text-decoration-color: #000;
   }
 
   li {
@@ -86,7 +87,7 @@
       color: #000;
       border: 1px solid $light-gray;
       border-radius: 0;
-
+      text-color
       &:hover {
         color: $link-color-hover;
       }
