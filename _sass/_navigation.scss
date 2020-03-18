@@ -67,7 +67,6 @@
     padding: 0;
     list-style-type: none;
     font-family: $sans-serif;
-    text-decoration-color: #000;
   }
 
   li {
@@ -84,10 +83,10 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: #000;
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
-      text-decoration-color: #000;
+
       &:hover {
         color: $link-color-hover;
       }
