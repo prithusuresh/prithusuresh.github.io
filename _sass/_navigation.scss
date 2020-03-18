@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: #000;
+      color: #f0f;
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,8 +92,8 @@
       }
 
       &.current {
-        color: #fa0;
-        background: #fa0;
+        color: #fff;
+        background: $primary-color;
       }
 
       &.disabled {
