@@ -49,4 +49,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<br\> <center>Get PDF <a href="https://prithusuresh.github.io/files/CV.pdf" target="_blank">here</a></center>
+<br/> <center>Get PDF <a href="https://prithusuresh.github.io/files/CV.pdf" target="_blank">here</a></center>
