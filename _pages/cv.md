@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
 * B.Tech in Electronics and Communication Engineering, SRM Institute of Science and Technology, 2016 - Now
@@ -50,4 +49,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Get PDF <a href="https://prithusuresh.github.io/files/CV.pdf">here</a>
+Get PDF <a href="https://prithusuresh.github.io/files/CV.pdf" target="_blank">here</a>
